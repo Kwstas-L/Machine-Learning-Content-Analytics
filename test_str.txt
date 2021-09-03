@@ -1,0 +1,528 @@
+__label__RESULT in a multivariate regression model csf scd14 remained associated with nfl and neopterin after adjusting for age, cd4+ cell count, and hiv rna in csf. / conclusions: in a group of untreated, hiv-infected patients lps was associated with scd14 in plasma, and plasma scd14 was associated csf scd14.
+__label__NEITHER förster resonance energy transfer and protein-induced fluorescence enhancement as synergetic multi-scale molecular rulers
+__label__METHOD the resulting frameworks have high stability, and high catalytic, photochemical and electrochemical activity.
+__label__METHOD the test cases covered a summertime extreme precipitation event over austria, a fall foehn event over the swiss alps and an intensively documented fall event along the mediterranean coast.
+__label__OBJECTIVE in switzerland,
+__label__NEITHER design, synthesis, chemical stability, packing, cyclic voltammetry, ionisation potential, and charge transport of [1]benzothieno[3,2-b][1]benzothiophene derivatives
+__label__CONCLUSION the different electronic structures of these two isostructural systems have a direct influence on the conducting properties, as demonstrated by band structure dft calculations.
+__label__BACKGROUND however, they requently fail related to the inability of patients to implement lasting changes.
+__label__BACKGROUND electronic supplementary material the online version of this article (10.1186/s13075-019-1845-7) contains supplementary material, which is available to authorized users.
+__label__RESULT results: the tm6sf2ek/kk and tm6sf2ee groups had similar age, gender, bmi and homa-ir.
+__label__OBJECTIVE abstract.
+__label__OBJECTIVE model results over the period 1950–2014 are compared to different observational datasets.
+__label__NEITHER complex influences of meteorological drought time-scales on hydrological droughts in natural basins of the contiguous unites states
+__label__RESULT the carriage of the cyp2c19*2 allele was strongly associated with hyporesponse to clopidogrel, while the cyp2c19*17 allele was a protective factor for the development of ischemic events (odds ratio = 0.149; p = 0.002) but a risk factor for bleeding (odds ratio = 3.60; p = 0.038).
+__label__RESULT 4.20 μg/l) were similarly distributed.
+__label__METHOD the ocean co2 sink (socean) and terrestrial co2 sink (sland) are estimated with global process models constrained by observations.
+__label__BACKGROUND however, some have questioned whether such a period, in which the disease is more susceptible to disease-modifying treatment, really exists.
+__label__METHOD the participants underwent a baseline sleep period consisting of five nights with 8 hr spent in bed.
+__label__RESULT we detected 15 different viruses during 1 year with a predomidnance of hrv (33.0%) and human respiratory syncytial virus (hrsv, 12.1%) infections, and a high rate of viral coinfections (28.3%).
+__label__BACKGROUND among bistable photochromic molecules, diarylethenes (daes) possess the distinct feature that upon photoisomerization they undergo a large modulation of their π-electronic system, accompanied by a marked shift of the homo/lumo energies and hence oxidation/reduction potentials.
+__label__METHOD the analysis is based on the new centro euro-mediterraneo per i cambiamenti climatici climate model (cmcc-cm2-vhr), capable of representing realistic tcs up to category-5 storms.
+__label__RESULT besides, gly/gly homozygotes for drd3 rs6280 showed significantly lower maximum constriction velocity values.
+__label__NEITHER quantification of total apolipoprotein e and its isoforms in cerebrospinal fluid from patients with neurodegenerative diseases
+__label__RESULT non-dust aerosols yield aod values of the order of 0.5.
+__label__RESULT whereas zikv and chikv-mediated infections have previously been recognized as relatively benign diseases, in contrast to dengue fever, recent epidemic events have brought waves of increased morbidity and mortality leading to a serious public health problem.
+__label__OBJECTIVE here, we present a robust relationship between total present-day aerosol optical depth and the anthropogenic contribution across three multimodel ensembles and a large single-model perturbed parameter ensemble.
+__label__OBJECTIVE respectively.
+__label__METHOD in this context, proteomics offers an extremely useful and versatile analytical platform for biomedical researches that expand from the screening of early diagnostic and prognostic biomarkers to the investigation of the molecular mechanisms underlying cdvs.
+__label__CONCLUSION however, they do not provide the physiological basis of classification outcomes.
+__label__RESULT we show how comparing predicted intensities to annotated experimental spectra by calculating direct similarity metrics provides enough information for a tool such as percolator to accurately separate two classes of peptide-to-spectrum matches.
+__label__RESULT these associations persisted after adjustment for sex and age and risk factors for cognitive impairment, including blood pressure, body mass index and parental educational attainment.
+__label__METHOD we argue that our results can be explained by reduced mean winds caused by higher cyclone activity.
+__label__NEITHER zikv infection induces robust th1-like tfh cell and long-term protective antibody responses in immunocompetent mice
+__label__OBJECTIVE this study estimates the impact of dust aerosols on surface solar radiation and solar energy in egypt based on earth observation (eo) related techniques.
+__label__RESULT results the potencies (pec 50 ) of fmlf, wkymvm and compound 43, determined on human neutrophils using the label-free dmr assay were 8.63, 7.76 and 5.92, respectively.
+__label__METHOD mris were evaluated for osteitis, synovitis, tenosynovitis, and erosions by two readers, blinded for clinical data and order in time.
+__label__BACKGROUND there are no approved treatments for liver fibrosis.
+__label__CONCLUSION a research agenda was determined.
+__label__BACKGROUND to robustly quantify uncertainty in multi-model ensembles, inter-dependencies between models as well as a models ability to reproduce observations should be considered.
+__label__CONCLUSION this unique approach should be tested in human cirrhosis.
+__label__BACKGROUND however, the mechanisms regulating the slow-to-fast transition toward their catastrophic collapse remain elusive.
+__label__RESULT personalized medicine does not rely on changes in concentration of a single molecular marker to make a therapeutic decision, but rather on changes of a profile of markers characterizing an individual patient’s status, taking into account not only the expected response to treatment of the disease but also the expected response of the patient.
+__label__OBJECTIVE the unique design of such c3-symmetric molecules, consisting of conformationally rigid and pseudoplanar scaffolds, made it possible to explore the role of electronic decoupling in the isomerization of the individual azobenzene units.
+__label__BACKGROUND however, because predicting orthology is computationally intensive at large scale, and most pipelines are relatively inaccessible (e.g., new assignments only available through database updates), less precise homology-based functional transfer is still the default for (meta-)genome annotation.
+__label__RESULT in contrast to the sed mice, vwr mice exhibited normal alt at the end of the intervention, while the metabolic alterations including elevated fasting glucose, insulin, triglyceride, and total cholesterol levels remained almost unchanged.
+__label__METHOD regulatory guidance information was collected from the pharmgkb online knowledgebase and the clinical pharmacogenetics implementation consortium (cpic).
+__label__METHOD we have considered two rule-based mathematical models and an own-designed method preserving basal connectivity as observed in experimental data.
+__label__CONCLUSION conclusions peripheral and central bps run in parallel throughout the day and are similarly associated with the cornell voltage and index.
+__label__RESULT incorporation of pufa into tgs and pcs in tm6sf2 knockdown hepatocytes was decreased (p<0.05).
+__label__RESULT sirt1-tg mice maintained higher levels of sirt1 on apap injection than wild-type mice and were protected against hepatotoxicity by modulation of antioxidant systems and restrained inflammatory responses, with decreased oxidative stress, proinflammatory cytokine messenger rna levels, nuclear factor kappa b (nfκb) signaling, and cell death.
+__label__BACKGROUND following a short review of multiscale computing patterns, this paper introduces the multiscale computing patterns software, which consists of description, optimisation and execution components.
+__label__METHOD data collection and biomarker analyses were conducted between 2015 and 2017.
+__label__OBJECTIVE this multicenter, cross-sectional study aims to validate these criteria in patients with compensated cirrhosis due to non-alcoholic fatty liver disease (nafld), accounting for possible differences in liver stiffness measurement (lsm) values between m and xl probes.
+__label__RESULT graft recipients from deceased donors showed higher incidende of delayed graft function (or 7.15, 95% ci 2.23, 30.46, adjusted p = 0.0008) and a lower estimated glomerular filtration rate at discharge (p = 0.0001).
+__label__BACKGROUND nevertheless, their potential for application in photonics has remained largely unexplored.
+__label__BACKGROUND aerosols that are efficient ice-nucleating particles (inps) are crucial for the formation of cloud ice via heterogeneous nucleation in the atmosphere.
+__label__RESULT mbf was impaired in patients both under baseline conditions (1.21±0.24 ml/min per g·[mm hg·bpm/104]−1 versus 1.34±0.28 ml/min per g·[mm hg·bpm/104]−1 in controls, p=0.044) and during adenosine stress (2.29±0.48 ml/min per g versus 2.73±0.37 ml/min per g in controls, p<0.001).
+__label__METHOD methods populations of in silico hipsc-cm models were constructed and calibrated for control (n = 1,463 models) and lqt3 caused by inal channelopathy (n = 1,401 models), using experimental recordings for late sodium current (inal) and action potentials (aps).
+__label__CONCLUSION it is also shown that the results remain consistent with uclales (without salsa) in cases where the dominating physical processes remain well represented by both models.
+__label__NEITHER avian mhc evolution in the era of genomics: phase 1.0
+__label__BACKGROUND such states are embedded in the boundaries between the two basins of attraction and feature extensive glaciation down to relatively low latitudes.
+__label__METHOD the synthesis of ibuprofen could be achieved on different scales simply by adjusting the parameters in the robot control software.
+__label__OBJECTIVE evaluated during two contrasted field campaigns performed at an urban site,
+__label__NEITHER increased cerebrospinal fluid levels of ubiquitin carboxyl-terminal hydrolase l1 in patients with alzheimer's disease
+__label__RESULT we identify from the region 43 dense cores with masses about a solar mass.
+__label__CONCLUSION the authors acknowledge the expert clerical assistance of vera de leebeeck, yvette piccart, and renilde wolfs.
+__label__CONCLUSION concluding, rs72824905-g has a protective effect against multiple neurodegenerative diseases indicating shared aspects of disease etiology.
+__label__NEITHER retrieval of ice-nucleating particle concentrations from lidar observations and comparison with uav in situ measurements
+__label__RESULT finally, we demonstrate unique tunable photosensitivity and excellent junction photoresponse in the 500/650 nm wavelength range.
+__label__CONCLUSION we propose that mir‐9‐5p elicits a protective response to chronic kidney injury and renal fibrosis by inducing reprogramming of the metabolic derangement and mitochondrial dysfunction affecting tubular epithelial cells.
+__label__RESULT kdeep is made available via playmolecule.org for users to test easily their own protein–ligand complexes, with each prediction taking a fraction of a second.
+__label__OBJECTIVE however, there remain some contrasts in the development of
+__label__CONCLUSION a detailed comparison among individual estimates and the introduction of a broad range of observations show (1) no consensus in the mean and trend in land-use change emissions, (2) a persistent low agreement among the different methods on the magnitude of the land co2 flux in the northern extra-tropics, and (3) an apparent underestimation of the co2 variability by ocean models, originating outside the tropics.
+__label__CONCLUSION in this review, we will critically address current knowledge on the mechanisms of exercise-induced af.
+__label__CONCLUSION this information may prove valuable for studies that seek to identify specific loci that modify the effects of lifestyle in cardiometabolic disease.
+__label__RESULT the results showed that drought indices calculated at different timescales (spi, spei) most closely correlated with crop yield.
+__label__METHOD all tested cx. quinquefasciatus populations were refractory to the zikv isolates.
+__label__METHOD in order to take the anisotropy of the active mechanics into account, our model is based on an active strain formulation.
+__label__METHOD recent work reported that serum nfl is increased in neurodegenerative diseases, including human prion diseases, but no data are available for scrapie or other animal prion diseases.
+__label__NEITHER nitrous oxide emissions from inland waters: are ipcc estimates too high?
+__label__RESULT up to 40,000 regulatory single-nucleotide polymorphisms (snps) were associated with multiple sclerosis (ms, 4,888 cases and 10,395 controls), major depressive disorder (mdd, 1,475 cases and 2,144 controls), and height (5,974 individuals) to each identify 43-61 regulatory snps, called deepsnps, which are shown to reach at least nominal significance in large gwas.
+__label__OBJECTIVE 642260 (transrisk project) and no.
+__label__RESULT app expression remained stable during neuronal differentiation, whereas app processing changed. α-cleaved soluble app (sappα) was secreted early during differentiation, from neuronal progenitors, while β-cleaved soluble app (sappβ) was first secreted after deep-layer neurons had formed.
+__label__BACKGROUND while precursory slow slip is an important feature of earthquake nucleation, foreshock sequences are not always observed, and their temporal evolution remains poorly constrained.
+__label__BACKGROUND recent innovations have the potential to improve rhythm control therapy in patients with atrial fibrillation (af).
+__label__BACKGROUND a transient impact of zikv on male fertility was shown in animal and human studies.
+__label__METHOD fossil co2 emissions (eff) are based on energy statistics and cement production data, while emissions from land use and land-use change (eluc), mainly deforestation, are based on land use and land-use change data and bookkeeping models.
+__label__BACKGROUND in addition, total tau and neurofilament light levels in csf are comparable with those found in human.
+__label__NEITHER serum neurofilament light protein as a marker for diffuse axonal injury: results from a case series study
+__label__BACKGROUND the radiative forcing from aerosols (particularly through their interaction with clouds) remains one of the most uncertain components of the human forcing of the climate.
+__label__RESULT critical issues: nf-κb is a redox-sensitive transcription factor that forms specific signaling complexes to regulate selectively the expression of target genes in acute inflammation.
+__label__RESULT finally, we demonstrate significantly reduced shox2 expression levels in right atrial appendages of af patients compared to patients with sinus rhythm.
+__label__RESULT we demonstrated that clozapine improved both measures of depressive-like behavior (behavior despair and anhedonia), whereas haloperidol aggravated learned helplessness in the forced-swimming test and behavior flexibility in a cognitive task.
+__label__METHOD resistance to i-bet confers cross-resistance to chemically distinct bet inhibitors such as jq1, as well as resistance to genetic knockdown of bet proteins.
+__label__NEITHER obesity/insulin resistance rather than liver fat increases coagulation factor activities and expression in humans
+__label__OBJECTIVE we aimed to quantify recent and lifetime praziquantel coverage, and reasons for non-treatment, at an individual level to guide policy recommendations to help uganda reach who goals.
+__label__RESULT importantly, 43.02% (36.54, 48.72%) of voltage-derived scar areas from the lv endocardium were classified as non-enhanced healthy myocardium using ex vivo cmr imaging.
+__label__BACKGROUND bz remodeling processes may promote or inhibit ca2+ and/or repolarization alternans and may differentially affect ventricular arrhythmogenesis.
+__label__RESULT the results of this study demonstrate that ae. aegypti from nc can become infected and replicate different zikv strains belonging to all lineages.
+__label__METHOD we then propose a multiscale 3d cardiac electromechanical model, wherein active force generation is described by means of the previously trained ann.
+__label__RESULT we also find that value can be added to existing climate change services by tailoring climate service outputs for a specific location or specific user requirements.
+__label__METHOD the substrate-binding protein feua binds the ligand ferri-bacillibactin and delivers it to the abc importer feubc, which is involved in iron uptake in bacteria.
+__label__CONCLUSION we did not find evidence for negative adult worm density-dependent effects on fecundity.
+__label__BACKGROUND international audience; zika virus (zikv) infection has been associated with neurologic disorders including guillain-barré syndrome (gbs).
+__label__OBJECTIVE we study the stochastic population dynamics of a population exposed to random (plus possibly directional) changes in the optimum phenotype for a quantitative trait that evolves in response to this moving optimum.
+__label__OBJECTIVE due to autoconversion and accretion for more polluted conditions.
+__label__NEITHER fibrogenesis assessed by serological type iii collagen formation identifies patients with progressive liver fibrosis and responders to a potential antifibrotic therapy
+__label__OBJECTIVE in comparison with the parent diarylethene (without sensitizers) and one featuring saturated linkages, the conjugated photoswitch offers superior fatigue resistance upon visible-light excitation due to effective triplet energy transfer from the biacetyl termini to the diarylethene core.
+__label__RESULT this result has implications for the ecmwf coupled model development strategy that typically relies on the analysis of biases in short ( < 1 year) ensemble (re)forecast data sets.
+__label__OBJECTIVE nuclei (ccn), as well as derived cloud droplet number concentration (cdnc).
+__label__OBJECTIVE regimes, we show that the difference between the different months emerges due
+__label__CONCLUSION keywords: detection and attribution, event attribution, climate models
+__label__RESULT nfl levels typically normalized ( < 380 pg/ml) between the fourth and fifth doses [- 879.5 pg/ml/dose, 95% ci (- 1243.4, - 415.6), p = 0.0001], tau levels decreased [- 112.6 pg/ml/dose, 95% ci (- 206-7, - 18.6), p = 0.01], and minor decreases in gfap were observed [- 16.9 pg/ml/dose, 95% ci (- 22.8, - 11.2), p = 0.02] by nusinersen treatment.
+__label__METHOD various drought indices have been used to assess the influence of drought on crop yields in spain, including the standardized precipitation evapotranspiration index (spei), the standardized precipitation index (spi), the palmer drought indices (palmer drought severity index, pdsi; palmer z index, z index; palmer hydrological drought index, phdi; palmer modified drought index, pmdi), and the standardized palmer drought index (spdi).
+__label__METHOD in the last 3 weeks of stress exposure, animals were treated with two different antipsychotics: haloperidol (a classical antipsychotic) and clozapine (an atypical antipsychotic).
+__label__BACKGROUND expression of several mirnas is somehow tissue-specific or cell-specific and their expression pattern can reflect an underlying pathophysiological condition.
+__label__BACKGROUND their association with respect to the galactic structure and their role in galactic star formation are of great interest from both observational and theoretical point of view.
+__label__OBJECTIVE well as updated emission fields for anthropogenic aerosol species and
+__label__BACKGROUND commonly used reference assays for molecular surveillance cover only a few adaptive mutations within the envelope domains and have not been validated for all chikv genotypes.
+__label__BACKGROUND the calculation of the air–water co2 exchange (fco2) in the ocean not only depends on the gradient in co2 partial pressure at the air–water interface but also on the parameterization of the gas exchange transfer velocity (k) and the choice of wind product.
+__label__OBJECTIVE 
+__label__NEITHER β-adrenergic receptor stimulation inhibits proarrhythmic alternans in postinfarction border zone cardiomyocytes: a computational analysis
+__label__BACKGROUND recent advances include the identification of pnpla3 as a modifier of disease outcome across the full spectrum of nafld from steatosis to advanced fibrosis and hepatocellular carcinoma; and the discovery of tm6sf2 as a potential "master regulator" of metabolic syndrome outcome, determining not only risk of advanced liver disease, but also cardiovascular disease outcomes.
+__label__CONCLUSION 5/19).
+__label__OBJECTIVE this study sought to delineate the role of cata for the development of atrial remodelling under diabetic conditions.
+__label__OBJECTIVE electronic supplementary material the online version of this article (10.1007/s00415-019-09677-3) contains supplementary material, which is available to authorized users.
+__label__CONCLUSION the superior environmental and photostability of dbov and, in general, of graphene nanostructures can represent a great advantage for their effective applications in pofs and information and communications technology.
+__label__METHOD highly robust all-inorganic frameworks can be made using metal-ion linkers, which combine molecular synthetic control without the need for organic components.
+__label__BACKGROUND previous reports implicate pear1 rs12041331 as a variant influencing risk in patients with coronary heart disease.
+__label__NEITHER molecular signatures of a tlr4 agonist-adjuvanted hiv-1 vaccine candidate in humans
+__label__RESULT grade ≥2 erosions and mtp5-erosions were specific for ra (specificity 98-100% and 90-98% for different age-groups).
+__label__RESULT the information from the morphome uncovers previously unknown effects of nanotopography on altering cell–cell interaction and osteogenic gene expression at the single cell level.
+__label__OBJECTIVE historical reanalyses that span more than a century are needed for a wide range of studies, from understanding large‐scale climate trends to diagnosing the impacts of individual historical extreme weather events.
+__label__BACKGROUND weather and climate models struggle to represent lower tropospheric temperature and moisture profiles and surface fluxes in arctic winter, partly because they lack or misrepresent physical processes that are specific to high latitudes.
+__label__BACKGROUND based on static structure snapshots, it is believed that they use an alternating access mechanism, which couples conformational changes to atp binding (outward‐open conformation) and hydrolysis (inward‐open) for unidirectional transport driven by atp.
+__label__RESULT reduction in the number of connections from 96 to 24 resulted in an increase in endo-epicardial dyssynchrony from 6.6 ± 1.9 to 24.6 ± 1.3%, with a concomitant increase in btr.
+__label__METHOD analyses were repeated after stratification for acpa and rf.
+__label__OBJECTIVE b., gloriam, d.
+__label__CONCLUSION health care providers should therefore facilitate access to this technique in both primary and specialized care. ispartof: american journal of hypertension vol:30 issue:5 pages:453-463 ispartof: location:united states status: published
+__label__METHOD plasma ga content from hf patients and healthy subjects was measured by direct infusion electrospray ionization mass spectrometry (esi-ms).
+__label__BACKGROUND the {\pi}-{\pi} interactions between organic molecules are among the most important parameters for optimizing the transport and optical properties of organic transistors, light-emitting diodes, and (bio-) molecular devices.
+__label__RESULT in contrast, ezh2 acts as a tumor suppressor during aml induction.
+__label__OBJECTIVE here we correlated germline variability in abc transporters with disease-specific survival (dss) in 960 breast cancer (brca), 314 clear cell renal cell carcinoma and 325 hepatocellular carcinoma patients.
+__label__CONCLUSION these data suggest that earlier loss of crebbp is advantageous for lymphoid transformation and inform the cellular origins and subsequent evolution of lymphoid malignancies.
+__label__BACKGROUND single-molecule, protein-induced fluorescence enhancement (pife) serves as a molecular ruler at molecular distances inaccessible to other spectroscopic rulers such as förster-type resonance energy transfer (fret) or photoinduced electron transfer.
+__label__OBJECTIVE cirrus clouds in e61h22).
+__label__OBJECTIVE 
+__label__OBJECTIVE how climate change will unfold in the years to come is a central topic in today’s environmental debate, in particular at the regional level.
+__label__OBJECTIVE of surface water.
+__label__OBJECTIVE therefore, we aim to quantify both the feasibility and the real-world impact of this approach in primary care.
+__label__RESULT the risk of a first and sustained renal endpoint increased with uae (hazard ratio ≥ 1.23; p ≤ 0.043) and ckd273 (≥ 1.20; p ≤ 0.031).
+__label__CONCLUSION gu w is supported by the china scholarships council (csc: #201906230332 ).
+__label__NEITHER phospholipidome of endothelial cells shows a different adaptation response upon oxidative, glycative and lipoxidative stress
+__label__NEITHER association between cognition and the retinal microvasculature in 11-year old children born preterm or at term
+__label__NEITHER non-invasive prediction of esophageal varices by stiffness and platelet in non-alcoholic fatty liver disease cirrhosis
+__label__OBJECTIVE bathymetric chart of the oceans and the global surface water explorer
+__label__CONCLUSION under conditions of a disrupted bbb, csf nk cells show significantly increased values and seem to have a major contribution to overall inflammatory processes, reflected by a strong correlation with multiple cytokines.
+__label__OBJECTIVE the main purpose of the multiscale computing patterns software is to leverage the multiscale computing patterns to simplify and automate the execution of complex multiscale simulations on high performance computers, and to provide both application-specific and pattern-specific performance optimisation.
+__label__BACKGROUND this includes a variety of vectors for therapeutic gene delivery to most types of retinal neurons and glia, as well as cell type–specific promoters for restricted gene expression in distinct neuronal subtypes.
+__label__RESULT we then used backward stepwise logistic regression analyses of variables from the nash clin score and ms-based factors associated with nash to develop the nash clinlipmet score.
+__label__RESULT with similar adjustments as before, the hazard ratio in relation to dp-ucmgp was 2.48 (95% ci 1.71-3.61; p < 0.001).
+__label__RESULT approximately 70% of the eqtls were replicated and characterized in at least one major peripheral blood mononuclear cell-derived cell type.
+__label__BACKGROUND identifying large expansions of short tandem repeats (strs) such as those that cause amyotrophic lateral sclerosis (als) and fragile x syndrome is challenging for short-read whole-genome sequencing (wgs) data.
+__label__CONCLUSION especially before testicular sperm extraction (tese) for icsi, stag3 variants should be ruled out to prevent unnecessary interventions with frustrating outcomes for both patients and clinicians.
+__label__METHOD eleven similarly aged children, who were investigated to rule out neurological or infectious disease, were used as controls.
+__label__BACKGROUND this can provide comprehensive insights on the pathophysiology of different diseases.
+__label__RESULT the incidence of nephrolithiasis over 12.0 years (median) was 37 cases (0.2%).
+__label__RESULT dot1l, via dimethylated histone h3 k79, facilitates histone h4 acetylation, which in turn regulates the binding of brd4 to chromatin.
+__label__BACKGROUND international audience; myanmar is located at the eastern margin of the ongoing indo-eurasian collision system, has experienced a complex tectonic history and is threatened by a high level of seismic hazard.
+__label__RESULT interpretation rvsv∆g-zebov-gp was well tolerated and stimulated a rapid onset of binding and neutralising antibodies, which were maintained through to day 360.
+__label__RESULT the predicted failure moment for bending, external and internal torsions were 0.8-27.9, 1.0-31.4 and 1.0-30.7 nm, respectively.
+__label__OBJECTIVE abstract.
+__label__RESULT statistical uncertainties of the order of 0.5 kcal/mol or less are achieved.
+__label__METHOD forty‐six healthy volunteers (24 men and 22 women) receiving a 100‐mg single oral dose of sertraline were genotyped for 17 genetic variants of cyp enzymes (cyp2b6, cyp2c9, cyp2c19, cyp2d6), atp‐binding cassette subfamily b member 1 (abcb1), solute carrier family 6 member 4 (slc6a4), 5‐hydroxytryptamine receptor 2a (htr2a) and 5‐hydroxytryptamine receptor 2c (htr2c) genes.
+__label__CONCLUSION our study highlights that the genetic architecture even of highly heritable traits is difficult to characterize in wild populations.
+__label__OBJECTIVE to determine unique versus redundant functions of smc1β, we asked which of the known functions of smc1β can be fulfilled by smc1α.
+__label__NEITHER integrated synthesis of gold nanoparticles coated with polyoxometalate clusters
+__label__BACKGROUND nonalcoholic fatty liver disease is characterized by substantial interpatient variation in rate of progression and disease outcome: although up to 25% of the general population are at risk of progressive disease, only a minority experience associated liver-related morbidity.
+__label__OBJECTIVE the main goals are interruption of etiology and prevention of complications followed, if necessary, by treatment of these.
+__label__RESULT the rat antibody against zikv ns1 dimer is a reliable biological tool that enables the immunological detection of secreted ns1 from host-cells infected with zikv.
+__label__RESULT additionally, no2-popc interacts with several typical lipoxidation targets in vitro, including vimentin and pparγ constructs, likely through cysteine residues.
+__label__BACKGROUND at the same time, contemporary views of working memory postulate that sensory areas may often also be recruited for retention.
+__label__RESULT the current fish-mip protocol is designed to allow these heterogeneous models to be forced with common earth system model (esm) coupled model intercomparison project phase 5 (cmip5) outputs under prescribed scenarios for historic (from the 1950s) and future (to 2100) time periods; it will be adapted to cmip phase 6 (cmip6) in future iterations.
+__label__METHOD methods we have recreated this mutation background by inter-crossing etv6-runx1 (etv6 runx1-sb ) and pax5 +/− mice and performed an in vivo analysis to find driver genes using sleeping beauty transposon-mediated mutagenesis and also exome sequencing.
+__label__CONCLUSION these results demonstrate that arf0 can be computed using the model with sufficient precision to distinguish between subjects and that the novel mechanism of fracture risk determination based on fall dynamics, hip impact and bone strength can be considered validated.
+__label__METHOD the finer topography (and reduced dissipation) in the vicinity of the caribbean basin tends to locally increase the amoc.
+__label__RESULT electrophilic modification of gfap in cells leads to a striking filament rearrangement, with retraction from the cell periphery and juxtanuclear condensation in thick bundles.
+__label__RESULT compared to the continuous injections to the equator, in summer months the radiative forcing was increased by 17 and 14 % and in winter months decreased by 14 and 16 % in northern and southern hemispheres, respectively.
+__label__CONCLUSION our results indicate that the reported biomimetic approach could be applied to neural prosthesis to improve cell colonization and avoid glial scar formation in brain implants.
+__label__OBJECTIVE this review describes the computational methods in use for ecg analysis, with a focus on machine learning and 3d computer simulations, as well as their accuracy, clinical implications and contributions to medical advances.
+__label__CONCLUSION in summary, we present the most comprehensive data set of slc variability published to date, which can provide insights into inter-individual differences in slc transporter function and guide the optimization of population-specific genotyping strategies in the bourgeoning fields of personalized medicine and precision public health.
+__label__METHOD in addition, 3-dimensional computational modeling was performed.
+__label__RESULT in mice, pgc-1α deficiency was associated with subclinical ckd and predisposition to aki while pgc-1α overexpression in tubular cells protected from aki of diverse causes.
+__label__METHOD the estimated pdfs are discussed and, when possible, compared to the true distributions.
+__label__CONCLUSION our observations highlight the possibility that vitamin k supplementation might promote retinal health. ispartof: scientific reports vol:8 issue:1 ispartof: location:england status: published
+__label__BACKGROUND in seroconversion panels obtained from patients from brazil, diagnostic testing for zika virus infection was improved by combining multiple antibody isotypes, techniques, and antigens, but sensitivity remained suboptimal.
+__label__RESULT adding foot tenosynovitis to hand tenosynovitis changed the sensitivity from 72 to 73%, specificity from 59 to 54% and auc from 0.66 to 0.64; the net reclassification index was − 3.5.
+__label__BACKGROUND integrated assessment models (iams) are computer-based instruments used to assess the implications of human activity on the human and earth system.
+__label__RESULT we showed clear effects of early salinity on late survival and interactions between effects of past and current environments on survival.
+__label__RESULT results we derived frequencies of 164 alleles in 17 clinically relevant pharmacogenes and derived profiles of putative functional consequences, providing the most comprehensive data set of jewish pharmacogenetic diversity published to date.
+__label__RESULT frequent cnvs, including deletions (f = 3.3%) and duplications (f = 36.4%) of sult1a1, were identified using qpcr and taqman assays in the donors’ genomic dna.
+__label__OBJECTIVE in this study we use the calipso dust extinction profiles as a tool for examining the performance of the regional dust model bsc-dream8b in space and time, for the period 2009–2013 over northern africa, the mediterranean, europe, eastern north atlantic and the middle east.
+__label__BACKGROUND protein tyrosine phosphatase 1b (ptp1b) is widely expressed in mammalian tissues, in particular in immune cells, and plays a pleiotropic role in dephosphorylating many substrates.
+__label__BACKGROUND this fact made mirnas interesting candidates for biomarkers providing information with respect to a potentially ongoing pathophysiological condition and could thereby have an impact on specific treatment strategies in patients.
+__label__BACKGROUND insecticide resistance is already widespread in the yellow fever mosquito, ae.
+__label__OBJECTIVE we present here a detailed analysis of the atmospheric dynamical processes during this period, to identify the main reasons for such extreme dust advection over crete.
+__label__NEITHER apixaban in patients at risk of stroke undergoing atrial fibrillation ablation
+__label__METHOD we calculate the chromo-electric and chromo-magnetic energy densities as well as the ratio of longitudinal and transverse pressure as a function of time as probes for thermalization.
+__label__METHOD our gwas for 54 functionally relevant phenotypes of the adaptive immune system in 489 healthy individuals identifies eight genome-wide significant associations explaining 6%–20% of variance.
+__label__BACKGROUND ethylenediaminetetraacetic acid (edta) is a chelating agent commonly used in protein purification, both to eliminate contaminating divalent cations and to inhibit protease activity.
+__label__BACKGROUND clearly, future investigations are required to gain a more detailed understanding of the metabolic fate of hne as well as to identify novel targets involved in the biological activity of the hne metabolites.
+__label__METHOD we reproduced the full spectrum of slip behavior, from slow to fast stick slip, by altering the elastic stiffness of the loading apparatus (k) to match the critical rheologic stiffness of fault gouge (kc).
+__label__BACKGROUND left atrial appendage (laa) is the site with the highest blood stasis which causes thrombus formation.
+__label__CONCLUSION this finding indicates a highly uncertain future for both flood-prone communities and decision makers in the context of climate change.
+__label__BACKGROUND birds are a wonderfully diverse and accessible clade with an exceptional range of ecologies and behaviors, making the study of the avian major histocompatibility complex (mhc) of great interest.
+__label__BACKGROUND up to now, the origins of this effect are not understood, causing difficulties in a drug discovery context.
+__label__NEITHER a new approach for assessing synergies of solar and wind power: implications for west africa
+__label__RESULT importantly, initial nf-l levels predicted poor 12-month clinical outcome.
+__label__RESULT computational docking experiments demonstrated that dso2-onj binds to p38α mapk at the same site where pias and the alkyl phospholipid perifosine activators do, suggesting similar mechanism of action.
+__label__METHOD blood, urine, and semen were collected at days 7, 11, 20, 30, 60, 90, and 120 after symptom onset, and semen characteristics, such as total sperm count, sperm motility, vitality, and morphology, and reproductive hormone concentrations, such as testosterone, inhibin, follicle-stimulating hormone, and luteinising hormone, were assessed.
+__label__OBJECTIVE if similar searches in other countries yield similarly rich results, an
+__label__BACKGROUND central to such trials is the ability to identify groups at high risk of rheumatoid arthritis (ra) in whom preventive treatment can be tested.
+__label__RESULT the marine-dominated and the mixture cases are more challenging for both algorithms, although garrlic manages to provide more detailed microphysical retrievals compared to aeronet, while liric effectively discriminates dust and marine particles in its concentration profile retrievals.
+__label__NEITHER a urinary fragment of mucin-1 subunit α is a novel biomarker associated with renal dysfunction in the general population
+__label__BACKGROUND objectivemri depicts inflammation and structural damage in rheumatoid arthritis (ra).
+__label__OBJECTIVE supplementary data are available at bioinformatics online.
+__label__OBJECTIVE result is a simulated increase in soil carbon of 57 pg c but a decrease in
+__label__RESULT the level of linkage disequilibrium (ld) in the population decayed to background levels within c.
+__label__CONCLUSION conclusions: in human cirrhosis, the alternate ras is markedly upregulated and the activation of this system is associated strongly with features of the hyperdynamic circulation in advanced human cirrhosis.
+__label__RESULT our case studies demonstrate that a horizontal resolution of 0.225° is sufficient for the large-scale modeling of tc surges.
+__label__NEITHER uncertainty quantification of a multiscale model for in-stent restenosis
+__label__RESULT using a novel extreme event definition, we find that heat extremes with respect to the evolving mean climate increase by 70% under a moderate warming scenario during the twenty-first century.
+__label__CONCLUSION indeed, treatment with the phosphatase inhibitor calyculin a to prevent dephosphorylation intensifies electrophile-induced wild-type vimentin filament disruption.
+__label__NEITHER identification of the first surrogate agonists for the g protein-coupled receptor gpr132
+__label__METHOD this method allowed us to produce pom-capped aunps without over-reduction of the solution causing decomposition or reorganization of the poms.
+__label__OBJECTIVE are still poorly understood.
+__label__BACKGROUND non-radical oxidation by hypochlorous acid can generate a-chlorofatty aldehydes from plasmenyl phospholipids.
+__label__CONCLUSION besides this, it highlights the importance of using multiple models in attribution studies, particularly where the climate change signal is not strong relative to natural variability or is confounded by other factors such as aerosols.
+__label__RESULT results: clinical data were available for 518 of the 606 participants.
+__label__NEITHER phenotypic plasticity in response to climate change: the importance of cue variation
+__label__BACKGROUND consistent with this, premature loss of centromeric cohesion is a major source of aneuploidy in oocytes from older women.
+__label__BACKGROUND background advanced fibrosis has been established as the most important predictor of overall mortality in patients with non-alcoholic fatty liver disease (nafld).
+__label__CONCLUSION discussion we conclude that the dmr assay can be used, and complements more traditional methods, to study the signalling and pharmacology of endogenous fpr receptors in human neutrophils.
+__label__OBJECTIVE 
+__label__BACKGROUND oxidized lipids represent the fraction of epilipidome which has attracted high scientific attention due to their apparent involvement in the onset and development of numerous human disorders.
+__label__CONCLUSION this could provide valuable insight into the global height-resolved distribution of inp concentrations related to mineral dust, as well as possibly other aerosol types.
+__label__OBJECTIVE global warming is now strong enough to make trends clear at individual stations when considering long enough (>50 yr) records of daily minimum and maximum temperature.
+__label__BACKGROUND activation of these intestinal myeloid cells elicits an inflammatory signal that is propagated to mesenteric lymph nodes, and that can facilitate extraintestinal inflammation.
+__label__RESULT retailers are progressively aligning their energy targets to those of the paris agreement and converging in business principles and reporting standards.
+__label__NEITHER diagnosis and management of resistant hypertension: state of the art
+__label__OBJECTIVE all rights reserved
+__label__BACKGROUND similar to previous mega-heatwaves, the 2019 event was long-lasting and affected large areas of western and central europe, including eastern iberia.
+__label__BACKGROUND summary the twin-atpase abce1 has a vital function in mrna translation by recycling terminated or stalled ribosomes.
+__label__BACKGROUND histologic fibrosis staging systems have been devised, based on topography and the extent of fibrosis, for most chronic liver diseases.
+__label__METHOD after binding to an rna template and selecting 5'-triphosphate ribonucleosides, viral rdrps synthesize an rna copy according to watson-crick base-pairing rules.
+__label__NEITHER graphene oxide doped polysulfone membrane adsorbers for the removal of organic contaminants from water
+__label__BACKGROUND abstract atrial fibrillation (af) is a common arrhythmia.
+__label__RESULT kat2a inhibition demonstrated anti-aml activity by inducing myeloid differentiation and apoptosis, and suppressed the growth of primary human amls of diverse genotypes while sparing normal hemopoietic stem-progenitor cells.
+__label__RESULT results: 101 of 187 tested patients had positive zikv rt-pcr in plasma and/or urine samples (54%, 72 women and 29 men).
+__label__BACKGROUND although 108 g-protein-coupled receptors (gpcrs) are the targets of 475 (∼34%) food and drug administration (fda)-approved drugs and account for a global sales volume of over 180 billion us dollars annually, the prevalence of genetic variation among gpcrs targeted by drugs is unknown.
+__label__RESULT an hfd-associated microbiome was transmissible to germ-free mice, with the gut microbial community structure of recipients segregating according to the microbiota input source.
+__label__RESULT the african zikv strain was better transmitted by ae. aegypti (∼ 50% mean transmission efficiency) and with a shorter incubation period (7 dpi) when compared to the asian and american strains (<14% transmission efficiency; incubation period of 14–21 dpi).
+__label__RESULT self-limited, post-vaccination arthritis occurred in 4·5% (19 of 418) of vaccinees (median onset 12·0 days [iqr 10–14]; median duration 8·0 days [6–15]) versus 3·2% (three of 94) of controls (median onset 15·0 days [6–20]; median duration 47·0 days [37–339]), with no apparent dose relationship.
+__label__OBJECTIVE the aims of this study were to examine if changes could also be seen in the csf for secreted metabolites of app-like protein 1 (aplp1) and to explore the prognostic value of amyloid-related csf biomarkers, as well as markers of neuronal injury and astroglial activation, as regards to clinical outcome after shunt surgery.
+__label__METHOD a logical and exciting prospect (chapter 5) is to combine meg and ulf mri into a single system in which both signal sources are detected with the same array of squids.
+__label__RESULT additionally, the rcms simulate larger increases in evapotranspiration over the mediterranean sea and larger increases/smaller decreases over land, which contribute to smaller changes in relative humidity, with likely impacts on clouds and precipitation changes.
+__label__RESULT maph-1.1 co-purified specifically with dlg-1 purified from neurons, and shared limited homology with the microtubule-associated protein map1a, a known neuronal interaction partner of mammalian dlg4/psd95.
+__label__RESULT results indicate that a reduction of the habitat suitability of the lung lichen across italy should be expected in the face of climate change and that this is coupled with aloss of suitable substrate.
+__label__BACKGROUND similarly, several studies revealed that the non-enzymatic reactions, initially considered as damaging processes randomly involving all endogenous nucleophilic reactants, are in fact quite selective in terms of both reactivity of the nucleophilic sites and stability of the generated adducts.
+__label__METHOD methods: this was a cross-sectional and longitudinal retrospective analysis of a dietary/weight loss intervention.
+__label__RESULT moreover, they correctly reproduce the frank-starling effect, when employed in multiscale 3d numerical simulation of cardiac electromechanics.
+__label__RESULT of this total, 359 tg ch4 yr−1 or ∼ 60 % is attributed to anthropogenic sources, that is emissions caused by direct human activity (i.e. anthropogenic emissions; range 336–376 tg ch4 yr−1 or 50 %–65 %).
+__label__BACKGROUND inflammation in the cerebrospinal fluid (csf) has been associated with cognitive impairment, and csf neurofilament light chain protein (nfl) and csf neopterin concentrations are increased in those patients.
+__label__METHOD simulations of trade wind cumulus are carried out using the met office unified model (um), based on a case study from the rain in cumulus over the ocean (rico) field campaign.
+__label__RESULT the rygb-specific lipid changes were associated with decreases in body weight, total and ldl-c, orosomucoid and increased homa-s (fdr<10%).
+__label__OBJECTIVE several molecular mechanisms have so far been considered to explain the damaging action of ales and among these a pathway involving the receptor for advanced glycation end products (rage) should be considered.
+__label__OBJECTIVE in this work, we evaluate how different types of satellite observations can describe the response of vegetation to changes in soil moisture over the entire planet.
+__label__NEITHER the human upper respiratory tract epithelium is susceptible to flaviviruses
+__label__BACKGROUND the seemingly intractable range of ecs estimates complicates policy making because the response of the real climate system to the lowest and highest predicted temperature change would translate into radically different policy options.
+__label__METHOD with an increased understanding of the biology of the ecm and liver fibrosis and an improved preclinical validation, the translation of these approaches to the clinic is currently ongoing.
+__label__RESULT our meta-analysis showed association between als and intermediate c9orf72 repeats of 24 to 30 repeats in size (random-effects model or = 4.2, 95% ci = 1.23–14.35, p-value = 0.02).
+__label__CONCLUSION this study demonstrates the added value of a collection of smiles for quantifying and diagnosing uncertainty in climate projections.
+__label__NEITHER ranking and characterization of established bmi and lipid associated loci as candidates for gene-environment interactions
+__label__BACKGROUND agomelatine is an agonist of the melatoninergic receptors used for the treatment of depression.
+__label__RESULT htr2a rs6313 t allele carriers and htr2c rs3813929 c/t subjects showed higher maximum constriction velocity and maximum pupil diameter.
+__label__OBJECTIVE we systematically characterise risks associated with decarbonisation pathways in fifteen case studies conducted in twelve countries around the world.
+__label__CONCLUSION therefore, oxidative modifications of this cysteine could contribute to gfap disruption or aggregation in pathological situations associated with oxidative or electrophilic stress.
+__label__RESULT we find that land policies focusing on increasing the sustainable output of biomass resources can reduce ghg emissions in the region by about 10%, but also slightly delay progress in health and energy access goals.
+__label__NEITHER designing algorithms to aid discovery by chemical robots
+__label__RESULT areas of projected decreased runoff depth are mainly concentrated in the southeast region of the basin.
+__label__RESULT significant associations with gut dysbiosis were demonstrated, with sm and ceramides being inversely correlated with gene richness.
+__label__CONCLUSION lay summary: cap is a new ultrasound-based technique for measuring fat content in the liver, but has never been tested for fatty liver caused by alcohol.
+__label__CONCLUSION 731875) and microb-predict (no.
+__label__BACKGROUND multidrug resistance due to facilitated drug efflux mediated by atp-binding cassette (abc) transporters is a main cause for failure of cancer therapy.
+__label__CONCLUSION our results demonstrate the variable physiological responses of species within the same local community to temperature changes and highlight important potential differences in climate change vulnerability, among species within coastal marine ecosystems.
+__label__RESULT these show that higher values of p* generally lead to lower sea ice deformation and lower sea ice thickness, and that no single value of p* is the best option for reproducing the observed drift speed and thickness.
+__label__RESULT importantly, an upregulation of adult neurogenesis and neuronal survival was observed in animals treated with clozapine, whereas haloperidol promoted a downregulation of these processes.
+__label__OBJECTIVE seasonal
+__label__CONCLUSION therefore, targeting the rock inhibitor y27 to pdgfrβ decreases portal pressure with potential beneficial effects in the kidney.
+__label__METHOD the versatility of the synthetic approach also enabled the design and synthesis of ten analogues, which provided the first structure–activity relationship study for this class of compounds.
+__label__RESULT ion mobility mass spectrometry was exploited for the first time to study multiphotochromic compounds revealing the occurrence of a large molecular shape change in such rigid star-shaped azobenzene derivatives.
+__label__RESULT additionally, the peptides decreased tnfα mrna levels (p < .001) in hacat cells, whereas only neurotensin and insulin decreased il-8 mrna (p < .001) but had no significant effect on il-6 mrna levels.
+__label__RESULT we find that two key regions at the surface are responsible for the development of the deep bias in the atlantic ocean: the northeastern north atlantic and the region adjacent to the strait of gibraltar.
+__label__METHOD analyses were stratified for anti-citrullinated protein antibodies (acpa) based under the assumption that acpa-positive and acpa-negative ra are different disease entities.
+__label__METHOD a novel marsupial hav (mhav) in the brazilian common opossum (didelphis aurita) was detected by nested reverse transcription-pcr (rt-pcr).
+__label__METHOD blast-tng features three detector arrays operating at wavelengths of 250, 350, and 500 _$\mu_$m (1200, 857, and 600 ghz) comprised of 918, 469, and 272 dual-polarization pixels, respectively.
+__label__OBJECTIVE the cnic (madrid, spain) is supported by the ministry of economy, industry and competitiveness (meic) and the pro cnic foundation; the cnic and the bsc (barcelona, spain) are severo ochoa centers of excellence (sev-2015-0505 and sev-2011-0067, respectively); instituto de salud carlos iii, fondo europeo de desarrollo regional (rd12/0042/0036, cb16/11/00458), spanish ministry of economy and competitiveness (mineco) (saf2016-80324-r, pi16/02110, and dts17/00136), and by the european commission [era-cvd joint call (jtc2016/apcin-isciii-2016), grant no.
+__label__METHOD methods using multiplex assays, we simultaneously measured 36 cytokines (ccl1–3, ccl7, ccl8, ccl11, ccl13, ccl19, ccl20, ccl22–27, cxcl1, cxcl2, cxcl5, cxcl6, cxcl8, cxcl9, cxcl11–13, cxcl16, cx3cl1, il2, il4, il6, il10, il16, gm-csf, ifnγ, mif, tnfα, and mib1β) in the csf and serum of 75 subjects.
+__label__BACKGROUND abstract host population size, density, immune status, age structure, and contact rates are critical elements of virus epidemiology.
+__label__CONCLUSION here we provide direct observational evidence that, instead of a strong increase, aerosols cause a relatively weak average decrease in the amount of water in liquid-phase clouds compared with unpolluted clouds.
+__label__BACKGROUND within-species variation in thermal sensitivity, caused by phenotypic plasticity and local adaptation of thermal limits, is often overlooked in assessments of species responses to warming.
+__label__OBJECTIVE are also taken from literature.
+__label__NEITHER exploring the solvent mediated assembly and redox activity of a pom–organic hybrid [na(so3)2(phpo3)4mov4movi14o49]5−
+__label__BACKGROUND background: variability in drug efficacy and adverse effects are observed in clinical practice.
+__label__OBJECTIVE here, using the cmip ensemble, we propose a process-oriented approach to revisit this issue.
+__label__OBJECTIVE this study aims to obtain a mechanistic explanation for fracture risk in dependence of these risk factors.
+__label__METHOD the 340 genes comprised phase i and ii enzymes, drug transporters and regulator/modifier genes within their entire coding regions, adjacent intron regions and 5′ and 3′utr regions, resulting in a total panel size of 1,382 kbp.
+__label__OBJECTIVE we determined which bioactive lipids co-segregate with ir in the human liver.
+__label__RESULT diastolic lv dysfunction was associated with higher levels of timp-1 (653 vs.
+__label__CONCLUSION our experiments demonstrate that the seismicity intensification due to cyclic fluid injections could be promoted at shallow depth, where confining pressure is relatively low, resulting in large strain rate perturbations.
+__label__BACKGROUND some studies described connections between c3435t polymorphism t allele and lower p‐glycoprotein expression; therefore, homozygous t/t could show higher plasma levels.
+__label__NEITHER transient overexpression of dna adenine methylase enables efficient and mobile genome engineering with reduced off-target effects
+__label__OBJECTIVE water path (lwp) is the leading control on liquid-cloud albedo, making
+__label__OBJECTIVE 
+__label__RESULT these changes were associated with reduced metabolic adaptability on a network level in the sense that liver fat accumulation puts increasing demands on the liver to adaptively regulate metabolic responses to maintain basic liver functions.
+__label__RESULT pitx2 is expressed in the adult left atrium, but much less so in other heart chambers.
+__label__BACKGROUND &lt;p&gt;&lt;strong&gt;abstract.&lt;/strong&gt; robust projections and predictions of climate variability and change, particularly at regional scales, rely on the driving processes being represented with fidelity in model simulations.
+__label__METHOD we used an ensemble of methods to prioritize 551 putative susceptibility genes that implicate multiple innate and adaptive pathways distributed across the cellular components of the immune system.
+__label__NEITHER dnascan: personal computer compatible ngs analysis, annotation and visualisation
+__label__BACKGROUND despite advancements in genetic studies, it is difficult to understand and characterize the functional relevance of disease-associated genetic variants, especially in the context of a complex multifactorial disease such as multiple sclerosis (ms).
+__label__RESULT in contrast, experts projected a stronger growth in renewable energy technologies, particularly solar power.
+__label__RESULT univariate and multivariate regression analyses were performed. / results: lps in plasma was associated with plasma scd14 (r = 0.31, p = 0.015), and plasma scd14 was associated with csf scd14 (r = 0.32, p = 0.012).
+__label__OBJECTIVE we show that 55% of the world coastlines face compound storm surge wave extremes.
+__label__METHOD upstream transcriptional regulator analyses pointed to pgc‐1α as the transcription factor potentially driving the observed expression changes with the highest reduction in activity.
+__label__NEITHER impact of inhibition of the autophagy-lysosomal pathway on biomolecules carbonylation and proteome regulation in rat cardiac cells
+__label__METHOD application to patients with liver fibrosis and a personalized treatment is tightly linked to the development of noninvasive biomarkers of fibrosis, fibrogenesis and fibrolysis.
+__label__BACKGROUND inorganic oxide materials are used in semiconductor electronics, ion exchange, catalysis, coatings, gas sensors and as separation materials.
+__label__RESULT interestingly, there are statistically significant differences between trends simulated by global hydrological models (ghms) forced with observational climate and by those forced by bias-corrected climate model output during the historical period, suggesting the important role of the stochastic natural (decadal, inter-annual) climate variability.
+__label__CONCLUSION the fact that congenital microcephaly is associated with asian lineage zikv strains raises the question of why this was not discovered earlier.
+__label__OBJECTIVE abstract.
+__label__BACKGROUND early clinical trials have shown promise, especially in acute myeloid leukaemia3, and therefore the evaluation of resistance mechanisms is crucial to optimize the clinical efficacy of these drugs.
+__label__CONCLUSION however, in horizon 2020, the new eu health and food work programmes for 2018–2020 go even further by setting new goals to find applications and to generate more knowledge on the microbiome, nutrition, various hosts of microbes, and their relation to health and disease.
+__label__RESULT glp-1 not only stimulates insulin secretion, but it has also an independent effect on the liver and inhibits glucose production.
+__label__CONCLUSION existing assays for molecular chikv surveillance are limited by poor coverage of known adaptive mutations, low sensitivity, and cost-intensive deep sequencing approaches, preventing universal application.
+__label__OBJECTIVE sci.
+__label__CONCLUSION we conclude with an interdisciplinary call to the metabolomics, pharmacy/pharmacology, radiology, and surgery communities that pharmacometabolomics coupled to information technologies (chemoinformatics tools, databases, collaborative systems) can inform quantitative radiomics, thus translating big data and information growth to knowledge growth, rational drug development and diagnostics innovation for glioblastomas, and possibly in other brain tumors.
+__label__RESULT furthermore, carriers of the abcb1 c1236t t/t genotype presented a lower auc and higher cl, as well as lower half‐life (t1/2).
+__label__RESULT regional longitudinal strain rate (-0.066 s (1), p=0.009)and regional radial strain (-2.848%, p=0.015) also decreased with ucd.
+__label__NEITHER impacts of extreme summers on european ecosystems: a comparative analysis of 2003, 2010 and 2018
+__label__RESULT this additional signal is strong and the resulting images typically exhibit less noise.
+__label__METHOD efficacies calculated from instantaneous radiative forcing deviate considerably from unity across forcing agents and models.
+__label__BACKGROUND nitro-fatty acids (no2-fa) undergo reversible michael adduction reactions with cysteine and histidine residues leading to the post-translational modification (ptm) of proteins.
+__label__RESULT baseline concentrations of thromboxane b2 in the portal vein were independently associated with an increase of portal hepatic venous pressure gradient during short term follow-up, as an indirect sign of thrombogenic potential (multivariable p = 0.004).
+__label__NEITHER flexible non-volatile optical memory thin-film transistor device with over 256 distinct levels based on an organic bicomponent blend
+__label__RESULT we find that the aerosol perturbations result in changes to the convective behaviour of the cloud field, with higher aerosol leading to an increase (decrease) in the number of deeper (shallower) clouds.
+__label__OBJECTIVE we also briefly explore how the use of robotics, algorithms, and stochastic chemical processes might lead to new understanding, mechanisms, and strategies to achieve full digital control.
+__label__OBJECTIVE heart j.
+__label__METHOD we studied associations between nfl concentrations in plasma and clinical and mri neuroimaging findings, namely cognitive function, motor function, and brain volume (global and regional).
+__label__RESULT the second part of this work shows a case study (a modeled category-5 typhoon) analysis to verify the impact of a more realistic representation of the high-frequency coupling in representing the tc effect on the ocean; the theoretical subsurface warming induced by tcs is well represented when coupling the two components at the higher frequency.
+__label__RESULT nfl decreased following 3 months of rest, but was still higher than in controls (p < 0.0001).
+__label__BACKGROUND in alzheimer's disease (ad), neuroaxonal degeneration results in increased release of tau from neurons.
+__label__BACKGROUND scrapie is a fatal neurodegenerative disease of sheep and goats belonging to the group of transmissible spongiform encephalopathy or prion diseases.
+__label__BACKGROUND nitrated phospholipids (no2‐pl) have been detected recently in biological samples, but their biological effects are unknown, although similarly to what has been described for nitrated lipids, it has been hypothesized that they may react with peptides and proteins.
+__label__RESULT electrochemical scanning tunneling microscopy (ec-stm) and raman spectroscopy measurements revealed that ptm molecules had a higher tendency to covalently react at the hopg step edges.
+__label__METHOD finally, the effects of plps species over canonical inflammation-associated signaling pathways, such as nuclear factor (nf)-κb and mitogen-activated protein kinases (mapks) were also disclosed.
+__label__BACKGROUND abstract almost every summer, dense blooms of filamentous cyanobacteria are formed in the baltic sea.
+__label__RESULT viruses can be detected in mosquito saliva at day 3 (chikv), day 14 (denv and yfv), and day 21 (zikv) post-infection.
+__label__RESULT scanning tunneling microscopy imaging revealed that the self-assembly of paha and oaha at the solidâeuro"liquid interface between highly oriented pyrolytic graphite (hopg) and their solution in 1,2,4-trichlorobenzene can be modulated upon light irradiation.
+__label__OBJECTIVE abstract understanding the process of the self‐assembly of gigantic polyoxometalates and their subsequent molecular growth, by the addition of capping moieties onto the oxo‐frameworks, is critical for the development of the designed assembly of complex high‐nuclearity cluster species, yet such processes remain far from being understood.
+__label__RESULT interestingly, short-spacer bifunctional cysteine crosslinking produces gfap-vimentin heterodimers, suggesting that a certain proportion of cysteine residues from both proteins are spatially close.
+__label__METHOD this metric of variability can also be calculated from observational records of global warming3, which enables tighter constraints to be placed on ecs, reducing the probability of ecs being less than 1.5 degrees celsius to less than 3 per cent, and the probability of ecs exceeding 4.5 degrees celsius to less than 1 per cent.
+__label__METHOD by merging concepts from redox flow battery and pem electrolysis research, we have built a hybrid electrolyser device capable of decoupling the gas evolution reactions during water splitting.
+__label__OBJECTIVE our aim was to identify distinct hcm phenotypes based on ecg computational analysis, and characterize differences in clinical risk factors and anatomical differences using cardiac magnetic resonance (cmr) imaging.
+__label__OBJECTIVE in this study, we perform a comparative analysis of the impact of the dh events on ecosystem co2 fluxes over europe based on an ensemble of 11 dynamic global vegetation models (dgvms), and the observation-based fluxcom product.
+__label__BACKGROUND background neural network based embedding models are receiving significant attention in the field of natural language processing due to their capability to effectively capture semantic information representing words, sentences or even larger text elements in low-dimensional vector space.
+__label__BACKGROUND achieving the long-term temperature goal of the paris agreement requires forest-based mitigation.
+__label__OBJECTIVE we tested the hypothesis that endo-epicardial uncoupling enhances endo-epicardial electrical dyssynchrony, breakthrough rate (btr), and af stability.
+__label__CONCLUSION knowledge of infection rates is crucial to project future epidemic patterns and determine the absolute risk of microcephaly upon maternal zikv infection during pregnancy.
+__label__BACKGROUND since 2013, zika virus (zikv) and chikungunya virus (chikv) have infected millions of people in the americas via urban transmission cycles.
+__label__RESULT aripiprazole, dehydro-aripiprazole and is were detected using the mode multiple reaction monitoring in the positive ionization mode.
+__label__NEITHER optogenetic light sensors in human retinal organoids
+__label__BACKGROUND dyads formed by tetrathiafulvalene (ttf) linked to perchlorotriphenylmethyl (ptm) radicals exhibit interesting physical properties such as bistability in solution or conductivity in solid state.
+__label__OBJECTIVE in this work, we describe a deep self-normalizing neural network model for the prediction of molecular pathway association and evaluate its performance, showing an auc ranging from 0.69 to 0.91 on a set of compounds extracted from chembl and from 0.81 to 0.83 on an external data set provided by novartis.
+__label__OBJECTIVE here, we review examples of transdifferentiation in a range of model systems and organisms.
+__label__METHOD the dual gauge theory states have constant temperature but non-constant energy density.
+__label__BACKGROUND nonalcoholic steatohepatitis can progress to cirrhosis and potentially to hepatocellular carcinoma.
+__label__CONCLUSION overall, while this work gives insights into the connections between rh trends and oceanic and continental processes at the global scale, further investigation is still desired to assess the contribution of both dynamic and thermodynamic factors to the evolution of rh over continental regions.
+__label__METHOD the first ensemble was designed to comprehensively sample uncertainty in the aerosol state, while the other samples additional uncertainties in the physical model related to clouds, humidity, and radiation, thereby allowing an analysis of uncertainty in the aerosol effective radiative forcing.
+__label__OBJECTIVE herein we present a system that can autonomously evaluate chemical reactivity within a network of 64 possible reaction combinations and aims for new reactivity, rather than a predefined set of targets.
+__label__RESULT cfd results supported the hypothesis that laa geometric characteristics plays a key-role in defining thromboembolic risk.
+__label__METHOD sixty-two global specialists in af and 13 industry partners met to develop innovative solutions based on new approaches to screening and diagnosis, enhancing integration of af care, developing clinical pathways for treating complex patients, improving stroke prevention strategies, and better patient selection for heart rate and rhythm control.
+__label__RESULT females showed lower levels of hepatic cidec/fsp27β expression than males when they were fed western diets, a result that was translated into a lesser amount of cidec/fsp27 protein in lipid droplets and microsomes.
+__label__BACKGROUND since then, the understanding of glucose homeostasis and pathology has primarily evolved around peripheral mechanism.
+__label__CONCLUSION further studies are needed to evaluate the role of csf il-12/23 p40 in other dementias and smci.
+__label__NEITHER blood-based cerebral biomarkers in preeclampsia: plasma concentrations of nfl, tau, s100b and nse during pregnancy in women who later develop preeclampsia - a nested case control study
+__label__BACKGROUND these regions are observed in multiple species and thought to have biological importance due to high transcription factor occupancy.
+__label__OBJECTIVE herein we present the label-free dmr assay as a robust readout for pharmacological characterization of formyl peptide receptors (fprs) in human neutrophils.
+__label__BACKGROUND at present, there is a discrepancy of about 4 gtco2 yr−1 in global anthropogenic net land-use emissions between global models (reflected in ipcc assessment reports) and aggregated national ghg inventories (under the unfccc).
+__label__CONCLUSION therefore, the 20cr system underwent a series of developments to generate a significant new version of the reanalysis.
+__label__NEITHER study of a water-graphene capacitor with molecular density functional theory
+__label__METHOD to test this hypothesis, we developed a mathematical model that was constrained by experimental data (the expanded disability status scale [edss] time series) obtained from a retrospective longitudinal cohort of 66 ms patients with a long-term follow-up (up to 20 years).
+__label__CONCLUSION such imbalance might lead to sympathetically triggered atrial fibrillation resembling the holiday heart syndrome.
+__label__CONCLUSION the assay convinces with its simple and convenient protocol paired with high sensitivity.
+__label__RESULT 0.06 mv (0.02-0.09) and 0.17 mv (0.07-0.28) vs.
+__label__METHOD we also provide a brief recap of reprogramming barriers, the effect of senescence on reprogramming efficiency, and strategies to deliver reprogramming factors in vivo.
+__label__METHOD run time lasted 5 min, followed by a re-equilibration time of 3 min, to give a total run time of 8 min.
+__label__CONCLUSION although nac is considered a safe substance, the results among clinical trials are sometimes controversial or incomplete, like for many other antioxidants.
+__label__OBJECTIVE in this work we hope to go some way towards addressing this by carrying out cloud-resolving simulations on large domains.
+__label__CONCLUSION our results demonstrate that brca patients with high variant burden in abcc1 are less prone to respond appropriately to pharmacological therapy with mrp1 substrates, thus incentivizing the consideration of genomic germline data for precision cancer medicine.
+__label__NEITHER winter tourism under climate change in the pyrenees and the french alps: relevance of snowmaking as a technical adaptation
+__label__RESULT persistent high d_aod (dust aerosol optical depth) values at 532 nm, of the order of 0.6, are present
+__label__BACKGROUND the magnetic field noise in superconducting quantum interference devices (squids) used for biomagnetic research such as magnetoencephalography or ultra-low-field nuclear magnetic resonance is usually limited by instrumental dewar noise.
+__label__BACKGROUND early indication of late-stage failure of novel candidate drugs could be facilitated by continuous integration, assessment, and transfer of knowledge acquired along pharmaceutical development programs.
+__label__OBJECTIVE fraction and lake depth fields for the ifs are proposed.
+__label__OBJECTIVE involves the use of a novel algorithm for ocean and inland water separation.
+__label__RESULT although they are reduced, a number of known biases and shortcomings (e.g., double intertropical convergence zone [itcz], frequency of midlatitude wintertime blockings, and el niño–southern oscillation [enso] dynamics) persist.
+__label__METHOD methods and results patients with ln-af and age- and sex-matched healthy controls were included in a 2:1 prospective case–control study.
+__label__OBJECTIVE untangling the reasons underlying recent changes in emissions trajectories is critical to guide efforts to attain those goals.
+__label__NEITHER serum heat shock protein 70 levels as a biomarker for inflammatory processes in multiple sclerosis
+__label__METHOD in particular, an iterative method for the retrieval of the particle backscatter is implemented.
+__label__RESULT short- and long-term treatments with tacrolimus, cyclosporin a or another cni deltamethrin (herbicide) decreased basal and insulin-dependent glucose uptake in adipocytes, without any additive effects observed when added together.
+__label__BACKGROUND nevertheless, their potential for application in photonics has remained largely unexplored.
+__label__BACKGROUND despite overcoming many implementation barriers, pharmacogenomic (pgx) panel-testing is not routine practice in the netherlands.
+__label__RESULT the apv protocol was evaluated on grms with o/c ratios ranging from 0.02 to 0.30 with film thicknesses from monolayers to bulk-like (>30 nm) layers and also applied to previously published data, showing better results compared to those from conventional xps fitting protocols.
+__label__NEITHER establishing communication between artificial cells
+__label__RESULT not being offered (49.2%) and being away during treatment (21.4%) were the most frequent reasons for not taking the 2016 praziquantel mda.
+__label__METHOD here, we used a model of rat primary cardiac cells to elucidate the role of autophagy-lysosomal pathway in the turnover of carbonylated biomolecules.
+__label__NEITHER formalising recall by genotype as an efficient approach to detailed phenotyping and causal inference
+__label__RESULT a 45% snowmaking fractional coverage, representative of the infrastructures in the early 2020s, is projected to improve snow reliability over grooming-only snow conditions, both during the reference period 1986–2005 and below 2 °c global warming since pre-industrial.
+__label__NEITHER computational fluid dynamics of blood flow in an idealized left human heart
+__label__RESULT this biphasic relationship between endo-epicardial coupling and btr was found independently from whether af was maintained by re-entry or by ectopic focal discharges.
+__label__RESULT main differences were observed in the pi class that was less abundant in ow and ob children and some ps, pe, sm, and pc lipid species are upregulated in obese and overweight children.
+__label__BACKGROUND the intermediate filament protein vimentin constitutes a critical sensor for electrophilic and oxidative stress.
+__label__RESULT we find reductions in the biases in top-of-atmosphere radiation components and cloud forcing.
+__label__OBJECTIVE wg5 strain.
+__label__RESULT on the other hand, the biovolume of the non-toxic aphanizomenon sp. and the potentially toxic dolichospermum spp. increased in the northern parts of the baltic sea, along with the decreased salinity and elevated temperatures, but aphanizomenon sp. decreased in the southern parts despite decreased salinity and increased temperatures.
+__label__BACKGROUND in migratory birds, wing morphology is such a trait.
+__label__RESULT by relating the coupling of nondipolar modes and plasmon–interband interaction with the dimer geometry, this work facilitates the development of plasmonic heterostructures with tailored responses, beyond the possibilities offered by homodimers.
+__label__RESULT results two hundred and sixty-one patients with non-cirrhotic nafld on liver biopsy (mean age 51 years, equal sex distribution) were included.
+__label__RESULT substantially improved operating conditions are revealed at 77 k, with a long fundamental carrier lifetime (>1.5 µs) and a marked depopulation of parasitic recombination pathways.
+__label__NEITHER medical and dietary uses of n-acetylcysteine
+__label__RESULT finally, we demonstrate that the right amount of chemical groups to achieve such high performance can be obtained also by direct electrochemical exfoliation of bulk graphite, without passing through go production, thus rendering this approach suitable for cheap, large-scale applications.
+__label__OBJECTIVE recently we have shown that gpr139 is activated by the amino acids l-tryptophan and l-phenylalanine (ec50 values of 220 μm and 320 μm, respectively), as well as di-peptides comprised of aromatic amino acids.
+__label__RESULT the receiver operating characteristic (roc) curve analysis estimated the cut-off value of 31 pg/ml serum nfl for distinguishing scrapie-infected sheep from controls.
+__label__OBJECTIVE trial registration number
+__label__CONCLUSION this confirms the selective neurotropism of zikv.
+__label__NEITHER tetrathiafulvalene-polychlorotriphenylmethyl dyads: influence of bridge and open-shell characteristics on linear and nonlinear optical properties
+__label__RESULT simulations also demonstrated that β-adrenergic receptor stimulation in this specific region reduced the formation of conduction block and the probability of premature ventricular activation propagation.
+__label__BACKGROUND translation of candidates from these studies into ald has established a role for variants in genes including pnpla3 and potentially tm6sf2 across the disease spectrum from steatosis, through cirrhosis to hepatocellular carcinoma.
+__label__BACKGROUND optogenetic control of the heart is an emergent technology that offers unparalleled spatio-temporal control of cardiac dynamics via light-sensitive ion pumps and channels (opsins).
+__label__OBJECTIVE the delocalization of the charges through the oligothiophene π–π stack ensures efficient charge transport while the hygroscopic shell, decorating the surface of the fibrillar structures, determines a certain affinity for polar molecules.
+__label__CONCLUSION conclusion these findings identify hfd-induced microbial alterations as risk factors for experimental food allergy and uncouple a pathogenic role of an hfd-associated microbiome from obesity.
+__label__RESULT in the treated animals, af-induced a-smooth muscle actin expression was lower and endomysial fibrosis was less pronounced.
+__label__BACKGROUND specifically, when the interparticle distances are reduced to a few nanometers, coupling may be greatly enhanced leading to ultimate near-field intensities and confinement along with a large energy splitting of resonant modes.
+__label__NEITHER constraining the aerosol influence on cloud liquid water path
+__label__RESULT long-lived winter bees had the highest bacterial loads and the lowest community α-diversity, with a characteristic shift toward high levels of bartonella and commensalibacter, and a reduction of opportunistic colonizers.
+__label__METHOD model, which impacts autoconversion rates.
+__label__OBJECTIVE here, we report the outcomes of the 6th consensus conference of the atrial fibrillation network (afnet) and the european heart rhythm association (ehra), held at the european society of cardiology heart house in sophia antipolis, france, 17-19 january 2017.
+__label__METHOD methods and results electrocardiogram- and respiratory-gated 3-tesla lge-cmr was performed in 10 healthy young volunteers and 30 patients with atrial fibrillation (af): 10 with paroxysmal af, 10 with persistent af, and 10 with a previous af ablation procedure.
+__label__BACKGROUND rho-kinase (rock) activation in hepatic stellate cells (hsc) is a key mechanism promoting liver fibrosis and portal hypertension (pth).
+__label__CONCLUSION the similarity in the pattern of steatosis, inflammation, and fibrosis involved in alcoholic fatty liver disease to those of the human condition renders this mouse model suitable as a preclinical model for drug development.
+__label__OBJECTIVE their release into the atmosphere is important with regards to a
+__label__BACKGROUND most purification methods rely in extensive dialysis and/or gel filtration in order to exchange or remove protein buffer components, including metal chelators.
+__label__OBJECTIVE biceps strength is usually preserved relative to triceps in neurological conditions, but biceps has a larger cortical representation and might be expected to show preferential weakness in als.
+__label__OBJECTIVE this molecule is found to self-assemble in solution forming supramolecular fibers, via π–π stacking between the conjugated oligothiophene backbones, which are phase segregated on the sub-nanometer scale from the teg side-groups.
+__label__BACKGROUND a number of doubts have been raised about this approach, some concerning the theory and the application of the one-box model to understand relationships in complex gcms which are known to have more than the single characteristic timescale.
+__label__RESULT in multivariable-adjusted models accounting for sex, baseline characteristics and follow-up duration, these estimates were -1.03 µm (ci, -1.96 to -0.11; p = 0.028) and -0.007 (ci, -0.011 to -0.002; p = 0.007).
+__label__CONCLUSION this work suggests that faults must be critically stressed to trigger under dynamic conditions and that the recovery process following a dynamically triggered event differs from the recovery following a spontaneous event.
+__label__NEITHER onchocerciasis transmission in ghana: the human blood index of sibling species of the simulium damnosum complex
+__label__NEITHER systematic study of the correlation between surface chemistry, conductivity and electrocatalytic properties of graphene oxide nanosheets
+__label__CONCLUSION coronary microvascular dysfunction may be a relevant pathophysiological mechanism in patients with a history of af.
+__label__RESULT results stiffness of hcc nodules and liver showed no significant difference prior to local ablative therapy.
+__label__CONCLUSION conclusion employing state-of-the-art functional spect/ct hybrid imaging, we could reliably assess and quantify right and left ventricular sympathetic innervation.
+__label__METHOD we evaluated adipo-ir (fasting and mean ogtt plasma free fatty acid [ffa] × insulin concentrations), peripheral ir (1/[matsuda index] and (m/i)-1 value), and β-cell function (calculated as the ratio of the increment in plasma insulin to glucose [ogtt/ir (δi/δg ÷ ir)]).
+__label__OBJECTIVE our objective is to demonstrate the value of integrating novel digital technology into clinical practice, with the potential for patient engagement, optimization of pharmacological and interventional therapy in af, and ultimately to improve patient outcomes.
+__label__METHOD protein and mrna levels of profibrotic, renin-angiotensin system components were assessed in liver and primary hepatic stellate cells (hsc) and hepatocytes.
+__label__CONCLUSION the changes in forcing would only lead to 0.05 k warmer winters and 0.05 k cooler summers in the northern hemisphere, which is roughly 3 % of the cooling resulting from solar radiation management scenarios studied here.
+__label__METHOD we demonstrate that thioalkyl substituents are able to influence the pcbm self-assembly and the morphology of the polymeric film, important parameters to maximize the efficiency of the solar cell.
+__label__RESULT this negative modulation was abolished by neutralizing il1β in apap-cm or silencing p65-nfκb in hepatocytes.
+__label__RESULT where two expanding circles collide, a stationary front is formed.
+__label__BACKGROUND &lt;p&gt;&lt;strong&gt;abstract.&lt;/strong&gt; in august 2017 bangladesh faced one of its worst river flooding events in recent history.
+__label__BACKGROUND electronic supplementary material the online version of this article (10.1186/s13075-018-1756-z) contains supplementary material, which is available to authorized users.
+__label__CONCLUSION we hope that this approach not only opens up the search for biosignatures beyond earth, but allow us to explore earth for new types of biology, as well as observing when a complex chemical system discovered in the laboratory could be considered alive.
+__label__METHOD we then review policy options to drive innovation and investment in these technologies.
+__label__METHOD total rna was extracted from the postmortem premotor cortex of 34 patients with als and 23 controls.
+__label__RESULT such reductions are able to cause financial losses that exceed the daily revenue values.
+__label__METHOD a highly promising means of placing the sensors substantially closer to the scalp for meg is to use high-transition-temperature (high-t c) squid sensors and flux transformers (chapter 3).
+__label__BACKGROUND systems biology approaches have recently provided new insights into the mechanisms of action of human vaccines and adjuvants.
+__label__METHOD here, pharmacists identify primary care patients, initiating one of 39 drugs with a dutch pharmacogenetic working group (dpwg) recommendation and subsequently utilizing the results of a 12 gene pgx panel test to guide dose and drug selection.
+__label__METHOD pife relies on steric hindrance of the fluorophore cy3, which is covalently attached to a biomolecule of interest, to rotate out of an excited-state trans isomer to the cis isomer through a 90° intermediate.
+__label__METHOD we established a hypothesis whereby the variability in the course of ms is driven by the very same pathogenic mechanisms responsible for the disease, the autoimmune attack on the cns that leads to chronic inflammation, neuroaxonal degeneration and remyelination.
+__label__BACKGROUND in contrast to cirrhosis, advanced, non-cirrhotic nafld is difficult to identify and data from germany are lacking.
+__label__OBJECTIVE this finding allows us to propose a highly idealized model of rain events, where the surface precipitation area is circular and a cell's precipitation intensity falls off linearly with the distance from the respective cell center.
+__label__RESULT the estimated highest value for r0 was 2.73 (95% confidence interval (ci): 1.65–4.17); the attack rate was 14% (95% ci: 5.6–27.4%), with 15 (95% ci: 6–29) pregnant women involved and a 12% probability of infected blood donations.
+__label__NEITHER decarbonizing strategies of the retail sector following the paris agreement
+__label__CONCLUSION we conclude early mitigation of ch emissions would significantly increase the feasibility of stabilising global warming below 1.5 °c, alongside having co-benefits for human and ecosystem health.
+__label__METHOD this difference arises from land cover‐aerosol interactions where the use of different soil vegetation distributions between both models impacts the rate of dust emissions.
+__label__OBJECTIVE statistically significant change in the ice formation/disappearance date
+__label__BACKGROUND background: multiple sclerosis (ms) is a chronic inflammatory disease of the central nervous system caused by genetic and environmental factors.
+__label__OBJECTIVE additionally, we discuss recent alternative approaches to introduce or alter phototransformable behavior and describe selected applications of phototransformable behavior in biosensors. ispartof: current opinion in biotechnology vol:58 pages:183-191 ispartof: location:england status: published
+__label__OBJECTIVE in the present study, we evaluated the vector competence for zikv of cx. quinquefasciatus and ae. aegypti mosquitoes from guadeloupe using african, american and asian strains.
+__label__METHOD clinical and laboratory parameters, pro-c4 and c4m levels were measured in blood samples from portal and hepatic veins just before transjugular intrahepatic portosystemic shunt placement.
+__label__RESULT depending on whether a fast initial endothelium recovery occurs, the proportion of the model variance due to natural variability ranges from 15 to 35%.
+__label__OBJECTIVE we report here that dialysis protocols,even as extensive as those typically employed for protein refolding, may not effectively remove edta, which is reduced only by approximately two-fold and it also persists after spin-column gel filtration, as determined by nmr and by colorimetric methods.
+__label__BACKGROUND validating this hypothesis is challenging due to a lack of tools and methods that allow for the direct characterization of amyloid polymorphism in hydrated and complex biological samples.
+__label__RESULT the current understanding of habitat requirements that determine species distributions are reviewed to provide fuller understanding of how individual species will respond to climate change from the present to 2055 while addressing the paucity of information on environmental factors controlling small-scale distribution in localized habitats.
+__label__RESULT ceramides with fatty acid chain lengths of 20-24 carbons were the most associated with low richness.
+__label__CONCLUSION conclusions: this large multicenter international real-life study identified aclf at admission as an independent predictor of rebleeding and mortality in patients with avb.
+__label__BACKGROUND humans are the definitive host of onchocerca volvulus, but the simuliid vectors feed on a range of animals and hbi is a key indicator of the potential for human onchocerciasis transmission.
+__label__BACKGROUND however, generalized protocols and fret standards to ensure the reproducibility and accuracy of measurements of fret efficiencies are currently lacking.
+__label__RESULT also for 2018, gatm was 5.1±0.2 gtc yr−1 (2.4±0.1 ppm yr−1), socean was 2.6±0.6 gtc yr−1, and sland was 3.5±0.7 gtc yr−1, with a bim of 0.3 gtc.
+__label__NEITHER estimation of π–π electronic couplings from current measurements
+__label__METHOD 12-lead ecgs were simulated on the 265 human torso/biventricular electrophysiology models, and qrs morphology,duration and amplitude were quantified in each ecg lead for each of the human torso-biventricular models.
+__label__METHOD samples from people with als were sequenced for 13 als genes.
+__label__OBJECTIVE hendrix), the agency for innovation by science and technology (iwt flanders; doctoral scholarship to n.v.), the danish council for independent research (sapere aude grant 602-01670b to v.b.), the novo nordisk foundation (nnf15oc0017956 to v.b.), the uk bbsrc (grant bb/h01795x/1 to a.n.k.),the national institute of mental health (grant mh081923 to m.e.b.), clemson university (start-up funds to h.
+__label__OBJECTIVE here, we report on the development of 11-mercapto-1-undecanesulfonate-coated gold nanoparticles (nps) that efficiently label the edges of synthetic, recombinant, and native amyloid fibrils derived from different amyloidogenic proteins.
+__label__BACKGROUND given the potential application of transdifferentiation in regenerative medicine and disease modeling, a better understanding of intermediate states is crucial to avoid uncontrolled conversion or proliferation, which pose a risk for patients.
+__label__NEITHER increased serological response against human herpesvirus 6a is associated with risk for multiple sclerosis
+__label__OBJECTIVE in this perspective, we overview the evidence and barriers to the development and implementation of precision medicine in type 2 diabetes.
+__label__OBJECTIVE abstract.
+__label__METHOD analysing error growth rates along a very long model trajectory, we show that blockings are associated with conditions of anomalously high instability of the atmosphere.
+__label__OBJECTIVE this paper presents, for the first time, an attribution of this precipitation-induced flooding to anthropogenic climate change from a combined meteorological and hydrological perspective.
+__label__RESULT this is far from boost-invariant and its width decreases as the non-conformality increases.
+__label__OBJECTIVE here we present alsgenescanner, a tool that is easy to install and use, able to provide an automatic, detailed, annotated report, on a list of als genes from whole-genome sequencing (wgs) data in a few hours and whole exome sequence data in about 1 h on a readily available mid-range computer.
+__label__BACKGROUND in addition to lowering cholesterol levels, statins have pleiotropic effects, particularly anti-inflammatory, antiangiogenic, and antifibrotic, that may be beneficial in some chronic inflammatory conditions.
+__label__BACKGROUND however, it is unclear how different ecosystems and environmental factors such as drainage conditions upon permafrost thaw affect the emission and compound composition.
+__label__BACKGROUND abstract the non-homogeneous distribution of computational costs is often challenging to handle in highly parallel applications.
+__label__RESULT predictions for particle production in _$\pi+a_$ collisions are made.
